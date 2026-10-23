@@ -40,8 +40,8 @@ Python (pandas, matplotlib, seaborn) | SQL (SQLite, window functions and CTEs) |
 DAX measures and a theme are in [`dashboard/POWERBI_BUILD_GUIDE.md`](dashboard/POWERBI_BUILD_GUIDE.md).
 
 
- ![Overview](dashboard/screenshots/overview.png).
- ![Area deep dive](dashboard/screenshots/area_deep_dive.png).
+ ![Overview](dashboard/screenshots/overview.png)
+ ![Area deep dive](dashboard/screenshots/area_deep_dive.png)
 
 ## Recommendations
 - **Income-focused investors:** screen Al Ghadeer, MBZ City, Al Reef, and Khalifa City first; verify service charges and tenant demand before buying.
@@ -79,11 +79,10 @@ python src/run_sql.py                # loads SQLite, runs sql/analysis_queries.s
 python src/build_excel.py            # builds excel/summary_pivot.xlsx
 jupyter notebook notebooks/01_cleaning_eda.ipynb
 ```
-Then build the dashboard by following `dashboard/POWERBI_BUILD_GUIDE.md`.
+“Open dashboard/real_estate.pbix in Power BI Desktop”
 
 ## SQL Skills Demonstrated
 Aggregation and `GROUP BY` | CTEs | `LAG` / `RANK` window functions | rolling-window frames | conditional aggregation (`CASE WHEN`) | joins across tables | derived KPIs (yield, value score)
 
 ## About Me
-**[Banupriya Muthuvel]** | Data Analyst |Power BI|SQL Abu Dhabi, UAE
-[Email](banupriya.muthuvel@gmail.com). 
+**Banupriya Muthuvel** | Data Analyst |Power BI, SQL, Python| Abu Dhabi, UAE | mailto:banupriya.muthuvel@gmail.com
