@@ -1,0 +1,20 @@
+{
+  "name": "Abu Dhabi Real Estate",
+  "dataColors": ["#1F3864", "#2E75B6", "#C9A227", "#54A24B", "#E45756", "#7F7F7F", "#9DC3E6", "#F2C94C"],
+  "background": "#FFFFFF",
+  "foreground": "#1F2937",
+  "tableAccent": "#1F3864",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#1F3864" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#374151" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#1F3864" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E5E7EB" } }, "radius": 6 }]
+      }
+    }
+  }
+}
