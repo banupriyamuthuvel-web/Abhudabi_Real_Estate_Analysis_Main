@@ -55,7 +55,7 @@ abudhabi-real-estate-analysis/
 ├── README.md
 ├── requirements.txt
 ├── data/
-│   ├── raw/                      synthetic sample data (replace with real data)
+│   ├── raw/                      synthetic sample data 
 │   └── clean/                    cleaned CSVs, SQLite DB, SQL result CSVs
 ├── notebooks/01_cleaning_eda.ipynb
 ├── sql/analysis_queries.sql      10 queries: CTEs, window functions, joins
